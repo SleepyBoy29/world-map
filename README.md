@@ -1,1 +1,2 @@
-# world-map
+# world-map from amCharts
+www.amcharts.com
